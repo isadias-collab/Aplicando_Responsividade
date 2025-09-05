@@ -7,6 +7,10 @@ Objetivo: Criar uma página simples com foto, nome, descrição e links, funcion
 Como foi feito:
 A página foi estruturada com HTML semântico e estilizada com CSS. Para o layout, utilizei Flexbox para organizar a foto e o texto lado a lado em telas grandes. Para telas menores, usei media queries para empilhar a foto acima do texto, garantindo responsividade e boa experiência em diferentes dispositivos.
 
+
+<img width="959" height="386" alt="image" src="https://github.com/user-attachments/assets/e1715a85-6f2f-4d26-82fe-6bd5608ecdf3" />
+
+
 _________________________________________________________________________________________
 
 2️⃣ Galeria de Imagens Responsiva
@@ -42,3 +46,6 @@ Objetivo: Criar uma landing page fictícia para um evento, com informações pri
 
 Como foi feito:
 O layout combina Flexbox e Grid para organizar o conteúdo em duas colunas no desktop (imagem de um lado e texto do outro) e uma coluna no celular. As media queries ajustam tamanhos de fonte, espaçamentos e posições para manter a legibilidade. O cabeçalho, seções de informações e rodapé foram estruturados semânticamente.
+
+
+"C:\Users\Dev_1o_Ano\Documents\esabella_dias_da_silva\2semestre\LIMA\aplicando_responsividade_isabelladias\atv5\kanye_site.mp4"
