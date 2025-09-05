@@ -20,6 +20,9 @@ Objetivo: Criar uma galeria com 6 a 12 imagens, organizada de forma responsiva.
 Como foi feito:
 Utilizei CSS Grid para criar a grade de imagens. A quantidade de colunas se ajusta conforme o tamanho da tela: 3-4 colunas no desktop, 2 no tablet e 1 no celular. As media queries garantem que as imagens se reorganizem automaticamente e mantenham proporções adequadas.
 
+<img width="410" height="382" alt="image" src="https://github.com/user-attachments/assets/a03d41d1-a793-4eb4-b29a-2d5d5b6daa14" />
+
+
 _________________________________________________________________________________________
 
 3️⃣ Layout de Blog Simples
@@ -29,6 +32,9 @@ Objetivo: Criar um layout de blog com cabeçalho, área principal de artigos, si
 Como foi feito:
 O layout foi construído com Flexbox e Grid para posicionar os elementos. A sidebar aparece ao lado dos artigos em telas grandes e é reposicionada abaixo dos artigos em telas pequenas usando media queries. A hierarquia visual e a tipografia foram ajustadas para leitura agradável.
 
+<img width="409" height="387" alt="image" src="https://github.com/user-attachments/assets/29d17f2f-4767-4c8c-b321-4292e159f4b8" />
+
+
 _________________________________________________________________________________________
 
 4️⃣ Cardápio Digital Responsivo
@@ -37,6 +43,8 @@ Objetivo: Criar uma página estilo cardápio de restaurante com cards para os pr
 
 Como foi feito:
 Usei CSS Grid para organizar os cards em 3 colunas no desktop, 2 no tablet e 1 no celular. Os cards incluem título, descrição e preço, e um efeito de hover destaca cada item quando o usuário passa o mouse. A tipografia e os espaçamentos são responsivos, garantindo boa visualização em diferentes dispositivos.
+
+<img width="508" height="361" alt="image" src="https://github.com/user-attachments/assets/45191e76-f361-449b-82a2-8ed9a00ab7c2" />
 
 _________________________________________________________________________________________
 
@@ -48,4 +56,5 @@ Como foi feito:
 O layout combina Flexbox e Grid para organizar o conteúdo em duas colunas no desktop (imagem de um lado e texto do outro) e uma coluna no celular. As media queries ajustam tamanhos de fonte, espaçamentos e posições para manter a legibilidade. O cabeçalho, seções de informações e rodapé foram estruturados semânticamente.
 
 
-"C:\Users\Dev_1o_Ano\Documents\esabella_dias_da_silva\2semestre\LIMA\aplicando_responsividade_isabelladias\atv5\kanye_site.mp4"
+<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/61a934fd-1272-4203-9636-081bb85359f0" />
+
