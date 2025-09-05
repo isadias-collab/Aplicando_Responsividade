@@ -1,0 +1,137 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background:rgb(143, 178, 206); 
+  padding: 1rem;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+nav a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+nav li:hover{
+    background: rgb(87, 121, 148);
+    cursor: pointer;
+    transition: 0.5s ease;
+    font-size: 30px;
+}
+
+/* Layout principal */
+.container {
+  display: flex;
+  gap: 2rem;
+  padding: 1rem;
+
+}
+
+/* Artigos */
+.artigos {
+  flex: 3;
+}
+
+.donniedarko {
+  background: #3B8DBF;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  color: #f9f9f9;
+  border-radius: 50px;
+}
+
+.funnygames{
+  background: #035AA6;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  color: #f9f9f9;
+  border-radius: 50px;
+}
+
+.oiluminado{
+  background: #030405;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  color: #f9f9f9;
+  border-radius: 50px;
+}
+
+
+/* Sidebar */
+.sidebar {
+  flex: 0,9;
+  background: rgb(143, 178, 206);
+  padding: 3rem;
+  border-radius: 10px;
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar img {
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  background: rgb(143, 178, 206);
+  color: rgb(249, 249, 249);
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    margin-top: 1rem;
+  }
+
+  nav ul {
+    flex-direction: column;
+  }
+}
+
+h3{
+    color: rgb(143, 178, 206);
+}
+img{
+    border-radius: 10px;
+    text-align: center;
+}
