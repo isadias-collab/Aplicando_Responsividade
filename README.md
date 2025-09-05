@@ -1,4 +1,4 @@
-# Aplicando_Responsividade
+# Aplicando Responsividade 👩🏻‍💻
 
 1️⃣ Página de Apresentação Pessoal
 
