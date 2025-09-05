@@ -7,7 +7,7 @@ Objetivo: Criar uma página simples com foto, nome, descrição e links, funcion
 Como foi feito:
 A página foi estruturada com HTML semântico e estilizada com CSS. Para o layout, utilizei Flexbox para organizar a foto e o texto lado a lado em telas grandes. Para telas menores, usei media queries para empilhar a foto acima do texto, garantindo responsividade e boa experiência em diferentes dispositivos.
 
-
+[Prévia - Landing Page]
 <img width="959" height="386" alt="image" src="https://github.com/user-attachments/assets/e1715a85-6f2f-4d26-82fe-6bd5608ecdf3" />
 
 
